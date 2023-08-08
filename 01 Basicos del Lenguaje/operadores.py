@@ -32,3 +32,18 @@ b=5
 a+=3
 b*=3
 print(a,' ',b)
+
+#Operadores Logicos
+x=2
+y=3
+a=5
+b=7
+
+print((x<y) and (a<b))
+print((x<y) and (a>b))
+print((x<y) or (a>b))
+
+if x<y:
+    print('x es menor que y')
+else:
+    print('x no es menor que y')
