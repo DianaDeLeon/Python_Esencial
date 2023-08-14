@@ -1,0 +1,8 @@
+pv_ventas.py
+setup.py
+pv_ventas.egg-info/PKG-INFO
+pv_ventas.egg-info/SOURCES.txt
+pv_ventas.egg-info/dependency_links.txt
+pv_ventas.egg-info/entry_points.txt
+pv_ventas.egg-info/requires.txt
+pv_ventas.egg-info/top_level.txt
